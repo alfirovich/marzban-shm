@@ -15,7 +15,7 @@ panel {
 ```
 <img width="905" alt="Снимок экрана 2024-09-23 в 21 07 50" src="https://github.com/user-attachments/assets/30175dba-2d8b-4abc-acea-4f35e3ea442f">
 
-Изменить шаблон marzban
+Изменить существующий шаблон marzban
 
 ```sh
 #!/bin/bash
